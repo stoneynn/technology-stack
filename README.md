@@ -10,6 +10,7 @@
 		* [MySql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
 	* [非关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#非关系型数据库)
 		* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
+		* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
@@ -51,7 +52,7 @@
 TODO
 
 ### Elasticsearch
-* [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E9%94%81)
+* [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Elasticsearch%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E9%9B%86)
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
