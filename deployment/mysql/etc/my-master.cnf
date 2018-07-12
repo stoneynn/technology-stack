@@ -1,0 +1,18 @@
+[mysqld]
+
+server_id = 1
+
+log-bin= mysql-bin
+
+read-only=0
+
+binlog-do-db=blogging
+
+replicate-ignore-db=mysql
+
+replicate-ignore-db=sys
+
+replicate-ignore-db=information_schema
+
+replicate-ignore-db=performance_schema
+
