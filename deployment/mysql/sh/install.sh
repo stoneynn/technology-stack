@@ -1,9 +1,5 @@
 #!/bin/bash
 
-## download file
-wget https://github.com/stoneynn/technology-stack/archive/master.zip
-unzip master.zip  > /dev/null
-
 ## pull images
 docker pull mysql:5.6
 
