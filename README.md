@@ -4,7 +4,7 @@
 * [服务器运维](https://github.com/stoneynn/technology-stack/blob/master/README.md#服务器运维)
 	* [Linux命令](https://github.com/stoneynn/technology-stack/blob/master/README.md#linux命令)
 	* [Docker](https://github.com/stoneynn/technology-stack/blob/master/README.md#docker)
-	* [安装配置常用服务](https://github.com/stoneynn/technology-stack/blob/master/README.md#安装配置常用服务)
+	* [安装配置服务](https://github.com/stoneynn/technology-stack/blob/master/README.md#安装配置服务)
 * [数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据库)
 	* [关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
 		* [MySql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
@@ -28,7 +28,7 @@
 * [《Docker基础教程》](http://www.runoob.com/docker/docker-tutorial.html)
 * [《Docker制作及使用》](https://github.com/stoneynn/technology-stack/wiki/Docker%E5%88%B6%E4%BD%9C%E5%8F%8A%E4%BD%BF%E7%94%A8)
 
-## 安装配置常用服务
+## 安装配置服务
 * [《基于docker的LNMP/LAMP/LNAMP架构》](https://github.com/stoneynn/technology-stack/wiki/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84LNMP-LAMP-LNAMP%E6%9E%B6%E6%9E%84)
 * [《基于docker的Redis缓存架构》](https://github.com/stoneynn/technology-stack/wiki/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84Redis%E7%BC%93%E5%AD%98%E6%9E%B6%E6%9E%84)
 * [《基于docker的Elasticsearch+Maxwell+Kafka+Mysql架构》](https://github.com/stoneynn/technology-stack/wiki/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84Elasticsearch-Maxwell-Kafka-Mysql%E6%9E%B6%E6%9E%84)
