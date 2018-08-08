@@ -44,8 +44,8 @@
 	* 脏读、不可重复读、幻读
 	* 隔离级别：读未提交、不可重复读、可重复读、串行化
 * [《Mysql锁》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E9%94%81)
-	* 表级锁定（table-level）
-	* 行级锁定（row-level）
+	* 表级锁定（table-level） : 表共享读锁（Table Read Lock）、表独占写锁（Table Write Lock）
+	* 行级锁定（row-level） ： 共享锁（S）、排他锁（X）、意向共享锁（IS）、意向排他锁（IX）
 	* 页级锁定（page-level）
 
 	
