@@ -7,7 +7,7 @@
 	* [安装配置服务](https://github.com/stoneynn/technology-stack/blob/master/README.md#安装配置服务)
 * [数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据库)
 	* [关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
-		* [MySql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
+		* [Mysql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
 	* [非关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#非关系型数据库)
 		* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
 		* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
@@ -38,7 +38,7 @@
 
 ## 关系型数据库
 
-### MySql
+### Mysql
 * [《Mysql事物》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E4%BA%8B%E5%8A%A1)
 	* 原子性、一致性、隔离性、持久性
 	* 脏读、不可重复读、幻读
