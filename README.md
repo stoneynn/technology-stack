@@ -47,8 +47,8 @@
 	* 表级锁定（table-level） : 表共享读锁（Table Read Lock）、表独占写锁（Table Write Lock）
 	* 行级锁定（row-level） ： 共享锁（S）、排他锁（X）、意向共享锁（IS）、意向排他锁（IX）
 	* 页级锁定（page-level）
-        * 乐观锁和悲观锁的实现
-	
+	* 乐观锁和悲观锁的实现
+
 ## 非关系型数据库
 
 ### Redis
