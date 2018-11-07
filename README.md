@@ -33,7 +33,7 @@
 * [《基于docker的Redis缓存架构》](https://github.com/stoneynn/technology-stack/wiki/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84Redis%E7%BC%93%E5%AD%98%E6%9E%B6%E6%9E%84)
 * [《基于docker的Elasticsearch+Maxwell+Kafka+Mysql架构》](https://github.com/stoneynn/technology-stack/wiki/%E5%9F%BA%E4%BA%8Edocker%E7%9A%84Elasticsearch-Maxwell-Kafka-Mysql%E6%9E%B6%E6%9E%84)
 * [《Centos7.x下Python3.6编译安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BPython3.6%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85)
-* [《Centos7.x下PHP编译安装及扩展安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BPHP%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E5%8F%8A%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85)
+* [《Centos7.x下PHP5.6编译安装及扩展安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BPHP5.6%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E5%8F%8A%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85)
 * [《Centos7.x下mysql5.7编译安装以及配置》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8Bmysql5.7%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E9%85%8D%E7%BD%AE)
 * [《Centos7.x下Nginx1.10编译安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BNginx1.10%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85)
 
