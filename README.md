@@ -51,7 +51,9 @@
 	* 行级锁定（row-level） ： 共享锁（S）、排他锁（X）、意向共享锁（IS）、意向排他锁（IX）
 	* 页级锁定（page-level）
 	* 乐观锁和悲观锁的实现
-
+* [《Mysql索引以及优化》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E9%94%81)
+	* 引擎类型 : MyISAM、InnoDB、Memory
+	
 ## 非关系型数据库
 
 ### Redis
