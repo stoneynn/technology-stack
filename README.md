@@ -63,6 +63,8 @@ TODO
 ### Elasticsearch
 * [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Elasticsearch%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E9%9B%86)
 
+# 数据结构
+
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
 
