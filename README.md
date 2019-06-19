@@ -52,7 +52,7 @@
 	* 页级锁定（page-level）
 	* 乐观锁和悲观锁的实现
 * [《Mysql索引以及优化》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E7%B4%A2%E5%BC%95%E4%BB%A5%E5%8F%8A%E4%BC%98%E5%8C%96)
-	* 引擎类型 : MyISAM、InnoDB、Memory
+	* 引擎类型（MyISAM、InnoDB、Memory）比较
 	
 ## 非关系型数据库
 
