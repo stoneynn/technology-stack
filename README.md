@@ -11,6 +11,7 @@
 	* [非关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#非关系型数据库)
 		* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
 		* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
+* [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
