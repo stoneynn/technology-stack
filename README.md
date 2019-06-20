@@ -12,10 +12,13 @@
 		* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
 		* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
+	* [线性表](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
+	* [栈与队列](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
+	* [树与二叉树](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
+	* [图](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
-	
 * [设计模式](https://github.com/stoneynn/technology-stack/blob/master/README.md#设计模式)
 
 
