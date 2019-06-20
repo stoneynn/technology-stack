@@ -10,7 +10,7 @@
 	* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
 	* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
-	* [八大基础数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#八大基础数据结构)
+	* [常用数据结构原理以及实现](https://github.com/stoneynn/technology-stack/blob/master/README.md#常用数据结构原理以及实现)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
@@ -62,10 +62,8 @@
 
 # 数据结构
 
-### 八大基础数据结构
-* [《线性表》]()
-	* 数组
-	* 链表
+### 常用数据结构原理以及实现
+* [《数组与链表》](https://github.com/stoneynn/technology-stack/wiki/%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8)
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
