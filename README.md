@@ -6,11 +6,9 @@
 	* [Docker](https://github.com/stoneynn/technology-stack/blob/master/README.md#docker)
 	* [安装配置服务](https://github.com/stoneynn/technology-stack/blob/master/README.md#安装配置服务)
 * [数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据库)
-	* [关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#关系型数据库)
-		* [Mysql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
-	* [非关系型数据库](https://github.com/stoneynn/technology-stack/blob/master/README.md#非关系型数据库)
-		* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
-		* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
+	* [Mysql](https://github.com/stoneynn/technology-stack/blob/master/README.md#mysql)
+	* [Redis](https://github.com/stoneynn/technology-stack/blob/master/README.md#redis)
+	* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
 	* [线性表](https://github.com/stoneynn/technology-stack/blob/master/README.md#线性表)
 	* [栈与队列](https://github.com/stoneynn/technology-stack/blob/master/README.md#栈与队列)
@@ -43,9 +41,7 @@
 
 # 数据库
 
-## 关系型数据库
-
-### Mysql
+## Mysql
 * [《Mysql事物》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E4%BA%8B%E5%8A%A1)
 	* 原子性、一致性、隔离性、持久性
 	* 脏读、不可重复读、幻读
@@ -59,14 +55,12 @@
 	* 索引的存储分类：B-Tree、HASH、R-Tree、Full-text
 	* 引擎类型：MyISAM、InnoDB、Memory
 	
-## 非关系型数据库
-
-### Redis
+## Redis
 * [《Redis数据类型及应用场景》](https://github.com/stoneynn/technology-stack/wiki/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
 	* 特点 ：数据存储在内存中、丰富的数据类型、持久化、原子性
 	* 数据类型 ：string、 hash、 set、 sorted set、bitmap、hyperloglog
 
-### Elasticsearch
+## Elasticsearch
 * [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Elasticsearch%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E9%9B%86)
 
 # 数据结构
