@@ -59,7 +59,9 @@
 ## 非关系型数据库
 
 ### Redis
-TODO
+* [《Redis数据类型及应用场景》](https://github.com/stoneynn/technology-stack/wiki/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF
+)
+
 
 ### Elasticsearch
 * [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Elasticsearch%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E9%9B%86)
