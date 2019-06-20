@@ -41,7 +41,7 @@
 
 # 数据库
 
-## Mysql
+### Mysql
 * [《Mysql事物》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E4%BA%8B%E5%8A%A1)
 	* 原子性、一致性、隔离性、持久性
 	* 脏读、不可重复读、幻读
@@ -55,30 +55,30 @@
 	* 索引的存储分类：B-Tree、HASH、R-Tree、Full-text
 	* 引擎类型：MyISAM、InnoDB、Memory
 	
-## Redis
+### Redis
 * [《Redis数据类型及应用场景》](https://github.com/stoneynn/technology-stack/wiki/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
 	* 特点 ：数据存储在内存中、丰富的数据类型、持久化、原子性
 	* 数据类型 ：string、 hash、 set、 sorted set、bitmap、hyperloglog
 
-## Elasticsearch
+### Elasticsearch
 * [《Elasticsearch开发问题集》](https://github.com/stoneynn/technology-stack/wiki/Elasticsearch%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98%E9%9B%86)
 
 # 数据结构
 
-## 线性表
+### 线性表
 * [《数组实现》]()
 * [《链表》]()
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
 
-## Git
+### Git
 
 * [《Git基础手册》](https://git-scm.com/docs)
 * [《Git发布流》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%8F%91%E5%B8%83%E6%B5%81)
 * [《Git常见问题集》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86)
 
-## 图形工具
+### 图形工具
 
 * 思维导图
 	* 帮助梳理系统逻辑。（XMind）
