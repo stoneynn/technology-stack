@@ -61,6 +61,8 @@
 ### Redis
 * [《Redis数据类型及应用场景》](https://github.com/stoneynn/technology-stack/wiki/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF
 )
+        * 特点 ：数据存储在内存中、丰富的数据类型、持久化、原子性
+	* 数据类型 ：string、 hash、 set、 sorted set、bitmap、hyperloglog
 
 
 ### Elasticsearch
