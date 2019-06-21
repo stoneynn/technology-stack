@@ -64,6 +64,7 @@
 
 ### 常用数据结构原理以及实现
 * [《数组与链表》](https://github.com/stoneynn/technology-stack/wiki/%E6%95%B0%E7%BB%84%E4%B8%8E%E9%93%BE%E8%A1%A8)
+* [《栈与队列》](https://github.com/stoneynn/technology-stack/wiki/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97)
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
