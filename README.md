@@ -11,6 +11,7 @@
 	* [Elasticsearch](https://github.com/stoneynn/technology-stack/blob/master/README.md#elasticsearch)
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
 	* [常用数据结构原理以及实现](https://github.com/stoneynn/technology-stack/blob/master/README.md#常用数据结构原理以及实现)
+* [算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
@@ -67,6 +68,10 @@
 * [《栈与队列》](https://github.com/stoneynn/technology-stack/wiki/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97)
 * [《树与二叉树》](https://github.com/stoneynn/technology-stack/wiki/%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91)
 * [《图》](https://github.com/stoneynn/technology-stack/wiki/%E5%9B%BE)
+
+# 算法
+### 常用算法实现
+
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
