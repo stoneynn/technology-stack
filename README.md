@@ -12,6 +12,7 @@
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
 	* [常用数据结构原理以及实现](https://github.com/stoneynn/technology-stack/blob/master/README.md#常用数据结构原理以及实现)
 * [算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
+	* [排序](https://github.com/stoneynn/technology-stack/blob/master/README.md#排序)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
 	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
@@ -71,8 +72,9 @@
 * [《图》](https://github.com/stoneynn/technology-stack/wiki/%E5%9B%BE)
 
 # 算法
-### 常用算法实现
-
+### 排序
+* [《常见排序算法》](https://github.com/stoneynn/technology-stack/wiki/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
+	* 冒泡排序、选择排序、插入排序
 
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
