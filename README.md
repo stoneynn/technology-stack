@@ -14,7 +14,7 @@
 * [算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
 	* [常见排序算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
 * [开发工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#开发工具)
-	* [Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#git)
+	* [分布式版本控制系统-Git](https://github.com/stoneynn/technology-stack/blob/master/README.md#分布式版本控制系统-Git)
 	* [图形工具](https://github.com/stoneynn/technology-stack/blob/master/README.md#图形工具)
 * [设计模式](https://github.com/stoneynn/technology-stack/blob/master/README.md#设计模式)
 
@@ -78,7 +78,7 @@
 # 开发工具
 工欲善其事，必先利其器。掌握工具是一项重要的技能，它能够帮助我们提高效率，使我们把精力放在核心的业务上。
 
-### Git
+### 分布式版本控制系统-Git
 
 * [《Git基础手册》](https://git-scm.com/docs)
 * [《Git发布流》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%8F%91%E5%B8%83%E6%B5%81)
