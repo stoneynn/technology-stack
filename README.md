@@ -90,7 +90,7 @@
 ### TCP/IP协议族
 
 ### 网络编程
-* [《简单理解php的socket编程》](https://github.com/stoneynn/technology-stack/wiki/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3php%E7%9A%84socket%E7%BC%96%E7%A8%8B)
+* [《简单理解socket编程》](https://github.com/stoneynn/technology-stack/wiki/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3socket%E7%BC%96%E7%A8%8B)
 
 ### 网络问题排查
 
