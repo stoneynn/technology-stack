@@ -79,13 +79,6 @@
 * [《常见排序算法》](https://github.com/stoneynn/technology-stack/wiki/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
 	* 冒泡排序、选择排序、插入排序、希尔排序、归并排序、快速排序、堆排序、计数排序、桶排序、基数排序
 
-# 开发工具
-### 分布式版本控制系统-Git
-
-* [《Git基础手册》](https://git-scm.com/docs)
-* [《Git发布流》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%8F%91%E5%B8%83%E6%B5%81)
-* [《Git常见问题集》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86)
-
 # TCP/IP协议及网络编程
 ### TCP/IP协议族
 
@@ -93,6 +86,13 @@
 * [《简单理解socket编程》](https://github.com/stoneynn/technology-stack/wiki/%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3socket%E7%BC%96%E7%A8%8B)
 
 ### 网络问题排查
+
+# 开发工具
+### 分布式版本控制系统-Git
+
+* [《Git基础手册》](https://git-scm.com/docs)
+* [《Git发布流》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%8F%91%E5%B8%83%E6%B5%81)
+* [《Git常见问题集》](https://github.com/stoneynn/technology-stack/wiki/Git%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E9%9B%86)
 
 ### 图形工具
 
