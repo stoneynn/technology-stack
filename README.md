@@ -41,6 +41,7 @@
 * [《Centos7.x下PHP5.6编译安装及扩展安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BPHP5.6%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E5%8F%8A%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85)
 * [《Centos7.x下mysql5.7编译安装以及配置》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8Bmysql5.7%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E9%85%8D%E7%BD%AE)
 * [《Centos7.x下Nginx1.10编译安装》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8BNginx1.10%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85)
+* [《Centos7.x下vftp安装以及应用》](https://github.com/stoneynn/technology-stack/wiki/Centos7.x%E4%B8%8Bvftp%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8)
 
 # 数据库
 
