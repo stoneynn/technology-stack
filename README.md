@@ -12,7 +12,8 @@
 * [数据结构](https://github.com/stoneynn/technology-stack/blob/master/README.md#数据结构)
 	* [常用数据结构原理以及实现](https://github.com/stoneynn/technology-stack/blob/master/README.md#常用数据结构原理以及实现)
 * [算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
-	* [常见排序算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#算法)
+	* [常见排序算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#常见排序算法)
+	* [递归算法](https://github.com/stoneynn/technology-stack/blob/master/README.md#递归算法)
 * [TCP/IP协议及网络编程](https://github.com/stoneynn/technology-stack/blob/master/README.md#TCPIP协议及网络编程)
 	* [TCP/IP协议族](https://github.com/stoneynn/technology-stack/blob/master/README.md#TCPIP协议族)
 	* [网络编程](https://github.com/stoneynn/technology-stack/blob/master/README.md#网络编程)
@@ -79,6 +80,7 @@
 # 算法
 * [《常见排序算法》](https://github.com/stoneynn/technology-stack/wiki/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
 	* 冒泡排序、选择排序、插入排序、希尔排序、归并排序、快速排序、堆排序、计数排序、桶排序、基数排序
+* [《递归算法》](https://github.com/stoneynn/technology-stack/wiki/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
 
 # TCP/IP协议及网络编程
 ### TCP/IP协议族
