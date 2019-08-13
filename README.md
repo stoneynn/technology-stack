@@ -60,6 +60,8 @@
 	* 索引的存储分类：B-Tree、HASH、R-Tree、Full-text
 	* 引擎类型：MyISAM、InnoDB、Memory
 	
+* [《Mysql优化策略》](https://github.com/stoneynn/technology-stack/wiki/Mysql%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5)
+
 ### Redis
 * [《Redis数据类型及应用场景》](https://github.com/stoneynn/technology-stack/wiki/Redis%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
 	* 特点 ：数据存储在内存中、丰富的数据类型、持久化、原子性
